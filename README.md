@@ -1,4 +1,4 @@
-# Data Science Projects Overview 📊
+# Dimensionality Reduction Techniques 📊
 
 This repository contains a series of data science projects focusing on Dimensionality Reduction and Clustering techniques, along with an implementation of Dimensionality Reduction using Databricks. Each project is designed to demonstrate key data science skills and methodologies.
 
