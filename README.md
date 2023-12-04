@@ -32,7 +32,7 @@ This project extends the dimensionality reduction approach by integrating cluste
 
 ### 3. Dimensionality Reduction Technique using Databricks 🌟
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uP-aE751u0xck-Xhci2NzD87IpX6dUz2#scrollTo=iyY_09gYZTz-)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1337796300686520/4425972590110466/201538296422954/latest.html)
 
 A specialized project that leverages the power of Databricks for Dimensionality Reduction. This project showcases how Databricks can be effectively utilized for handling large-scale data and complex computations.
 
